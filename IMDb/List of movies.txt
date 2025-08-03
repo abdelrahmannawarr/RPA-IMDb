@@ -1,0 +1,9 @@
+Fury
+Movie Duration: 2h 14m
+Movie Year: 2014
+Movie Rating: 7.6/10
+-------------------------
+Hacksaw Ridge
+Movie Duration: 2h 19m
+Movie Year: 2016
+Movie Rating: 8.1/10
